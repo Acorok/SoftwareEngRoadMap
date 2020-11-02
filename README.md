@@ -4,6 +4,7 @@ Self Taught Software Engineering guide, based on online content, focused on free
 * DEV.to
 * DevDocs.io
 * news.ycombinator.com
+* https://thecarrots.io/blog/25-best-github-repos-for-python-developers
 # General
 * **Computer Basics**
     * https://www.tutorialspoint.com/basics_of_computers/index.htm
