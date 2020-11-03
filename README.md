@@ -8,7 +8,7 @@ Self Taught Software Engineering guide, based on online content, focused on free
 # General
 * **Computer Basics**
     * https://www.tutorialspoint.com/basics_of_computers/index.htm
-    * https://www.tutorialspoint.com/computer_fundamentals/index.htm
+    *(READ) https://www.tutorialspoint.com/computer_fundamentals/index.htm
 * **Computer Science**
   * Understanding of the web
     * https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm
