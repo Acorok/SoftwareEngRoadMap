@@ -5,8 +5,8 @@ This section will focus on front end website design, the sections will include a
   * The Design of Everyday Things: Revised and Expanded Edition
   * William Lidwell-The Pocket Universal Principles of Design
 * **Videos**  
-  * https://www.youtube.com/watch?v=65WjYDEzi88
-  * https://www.youtube.com/watch?v=fYs2Mdyasuc
+  * https://www.youtube.com/watch?v=65WjYDEzi88 (Watched)
+  * https://www.youtube.com/watch?v=fYs2Mdyasuc 
   * https://www.youtube.com/watch?v=LCfBYE97rFk&ab_channel=Netflix
   * https://www.youtube.com/watch?v=BDpqt-haLLM
 ### UX/UI
@@ -15,7 +15,7 @@ This section will focus on front end website design, the sections will include a
   * https://xd.adobe.com/ideas/principles/web-design/11-website-layouts-that-made-content-shine-in-2019/
 ## Photography & Image Editing
 * **Photography Course**
-  * https://www.youtube.com/watch?v=LxO-6rlihSg&t=303s
+  * https://www.youtube.com/watch?v=LxO-6rlihSg&t=303s (28:00)
 * **Image Editing**
   * **Photoshop**
     * https://www.youtube.com/watch?v=IyR_uYsRdPs
